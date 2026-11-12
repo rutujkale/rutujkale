@@ -1,5 +1,6 @@
 # Hi, I'm Rutuj Kale
 B.Tech AI & Data Science (2027) · Chhatrapati Sambhajinagar, India
+
 Open to AI / ML / Data Science internships
 
 ### Featured work
